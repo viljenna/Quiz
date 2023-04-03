@@ -1,3 +1,5 @@
+This is my first bigger app with React and JavaScript.
+
 Breaking Bad-Quiz made with React and JavaScript.
 
 Elements are from Material-UI-library and pictures and information uses API-documentation.
